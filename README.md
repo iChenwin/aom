@@ -1,3 +1,6 @@
+Because of the reason you know, googlesource is not reachable in China mainland.
+So here is a copy of [https://aomedia.googlesource.com/aom/](https://aomedia.googlesource.com/aom/)
+
 # AV1 Codec Library
 
 ## Contents
